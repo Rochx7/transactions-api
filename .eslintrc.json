@@ -1,0 +1,12 @@
+{
+  "extends": "@rocketseat/eslint-config/node",
+  "rules": {
+    "eslint-plugin-prettier/prettier": "error"
+  },
+  "prettier/prettier": [
+    "error",
+    {
+      "endOfLine": "auto"
+    }
+  ]
+}

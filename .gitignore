@@ -1,0 +1,9 @@
+node_modules
+*.log
+
+# DB
+db/app.db
+
+
+#envs
+.env
