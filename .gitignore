@@ -4,6 +4,5 @@ node_modules
 # DB
 db/app.db
 
-
 #envs
 .env
