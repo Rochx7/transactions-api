@@ -3,6 +3,8 @@ node_modules
 
 # DB
 db/app.db
+db/test.db
 
 #envs
 .env
+.env.test
