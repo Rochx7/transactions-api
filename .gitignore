@@ -1,10 +1,14 @@
 node_modules
+
+#Logs
 *.log
 
-# DB
-db/app.db
-db/test.db
+# Build
+dist
 
-#envs
+# DB
+db/*.db
+
+#Envs
 .env
 .env.test
